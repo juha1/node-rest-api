@@ -1,0 +1,22 @@
+{
+  "name": "harjoitus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 4000"
+  },
+  "author": "juha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "mocha": "^3.0.2",
+    "mongodb": "^2.2.5",
+    "mongoose": "^4.5.8",
+    "request": "^2.74.0"
+  }
+}
